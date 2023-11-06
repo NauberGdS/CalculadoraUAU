@@ -1,0 +1,10 @@
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\bin\Debug\CalculadoraUAU.exe.config
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\bin\Debug\CalculadoraUAU.exe
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\bin\Debug\CalculadoraUAU.pdb
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\obj\Debug\CalculadoraUAU.csproj.AssemblyReference.cache
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\obj\Debug\CalculadoraUAU.Form1.resources
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\obj\Debug\CalculadoraUAU.Properties.Resources.resources
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\obj\Debug\CalculadoraUAU.csproj.GenerateResource.cache
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\obj\Debug\CalculadoraUAU.csproj.CoreCompileInputs.cache
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\obj\Debug\CalculadoraUAU.exe
+C:\Users\Naubar\source\repos\CalculadoraUAU\CalculadoraUAU\obj\Debug\CalculadoraUAU.pdb

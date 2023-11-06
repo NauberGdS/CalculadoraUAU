@@ -16,5 +16,9 @@ namespace CalculadoraUAU
         {
             InitializeComponent();
         }
+
+
+
+      
     }
 }
