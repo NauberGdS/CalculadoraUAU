@@ -52,9 +52,10 @@
             // btn7
             // 
             this.btn7.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn7.BackgroundImage = global::CalculadoraUAU.Properties.Resources._102_0009;
             this.btn7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn7.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn7.ForeColor = System.Drawing.Color.Black;
+            this.btn7.ForeColor = System.Drawing.Color.Transparent;
             this.btn7.Location = new System.Drawing.Point(10, 91);
             this.btn7.Name = "btn7";
             this.btn7.Size = new System.Drawing.Size(63, 57);
@@ -66,9 +67,10 @@
             // btn4
             // 
             this.btn4.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn4.BackgroundImage")));
             this.btn4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn4.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn4.ForeColor = System.Drawing.Color.Black;
+            this.btn4.ForeColor = System.Drawing.Color.Transparent;
             this.btn4.Location = new System.Drawing.Point(10, 154);
             this.btn4.Name = "btn4";
             this.btn4.Size = new System.Drawing.Size(63, 57);
@@ -80,9 +82,10 @@
             // btn1
             // 
             this.btn1.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn1.BackgroundImage")));
             this.btn1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn1.ForeColor = System.Drawing.Color.Black;
+            this.btn1.ForeColor = System.Drawing.Color.Transparent;
             this.btn1.Location = new System.Drawing.Point(10, 217);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(63, 57);
@@ -94,9 +97,10 @@
             // btn8
             // 
             this.btn8.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn8.BackgroundImage")));
             this.btn8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn8.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn8.ForeColor = System.Drawing.Color.Black;
+            this.btn8.ForeColor = System.Drawing.Color.Transparent;
             this.btn8.Location = new System.Drawing.Point(79, 91);
             this.btn8.Name = "btn8";
             this.btn8.Size = new System.Drawing.Size(63, 57);
@@ -108,9 +112,10 @@
             // btn5
             // 
             this.btn5.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn5.BackgroundImage")));
             this.btn5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn5.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn5.ForeColor = System.Drawing.Color.Black;
+            this.btn5.ForeColor = System.Drawing.Color.Transparent;
             this.btn5.Location = new System.Drawing.Point(79, 154);
             this.btn5.Name = "btn5";
             this.btn5.Size = new System.Drawing.Size(63, 57);
@@ -122,9 +127,10 @@
             // btn2
             // 
             this.btn2.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn2.BackgroundImage")));
             this.btn2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn2.ForeColor = System.Drawing.Color.Black;
+            this.btn2.ForeColor = System.Drawing.Color.Transparent;
             this.btn2.Location = new System.Drawing.Point(79, 217);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(63, 57);
@@ -136,9 +142,10 @@
             // btn9
             // 
             this.btn9.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn9.BackgroundImage")));
             this.btn9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn9.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn9.ForeColor = System.Drawing.Color.Black;
+            this.btn9.ForeColor = System.Drawing.Color.Transparent;
             this.btn9.Location = new System.Drawing.Point(148, 91);
             this.btn9.Name = "btn9";
             this.btn9.Size = new System.Drawing.Size(63, 57);
@@ -150,9 +157,10 @@
             // btn6
             // 
             this.btn6.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn6.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn6.BackgroundImage")));
             this.btn6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn6.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn6.ForeColor = System.Drawing.Color.Black;
+            this.btn6.ForeColor = System.Drawing.Color.Transparent;
             this.btn6.Location = new System.Drawing.Point(148, 154);
             this.btn6.Name = "btn6";
             this.btn6.Size = new System.Drawing.Size(63, 57);
@@ -164,9 +172,10 @@
             // btn3
             // 
             this.btn3.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn3.BackgroundImage")));
             this.btn3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn3.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn3.ForeColor = System.Drawing.Color.Black;
+            this.btn3.ForeColor = System.Drawing.Color.Transparent;
             this.btn3.Location = new System.Drawing.Point(148, 217);
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(63, 57);
@@ -234,9 +243,10 @@
             // btn0
             // 
             this.btn0.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.btn0.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn0.BackgroundImage")));
             this.btn0.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn0.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn0.ForeColor = System.Drawing.Color.Black;
+            this.btn0.ForeColor = System.Drawing.Color.Transparent;
             this.btn0.Location = new System.Drawing.Point(10, 280);
             this.btn0.Name = "btn0";
             this.btn0.Size = new System.Drawing.Size(132, 57);
@@ -300,7 +310,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gainsboro;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(289, 346);
             this.Controls.Add(this.txbAux);
             this.Controls.Add(this.txbTela);
