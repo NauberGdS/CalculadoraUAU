@@ -320,12 +320,10 @@
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.btn4);
             this.Controls.Add(this.btn7);
-            this.Enabled = false;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora";
-            this.Click += new System.EventHandler(this.Numero_Click);
             this.ResumeLayout(false);
             this.PerformLayout();
 
